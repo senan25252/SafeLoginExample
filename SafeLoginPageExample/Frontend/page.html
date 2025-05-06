@@ -1,15 +1,11 @@
 <script>
-            fetch("http://localhost:5000/", {
+        fetch("http://localhost:5000/", {
             method: "AUTH",
             body: JSON.stringify({
                 authKey: localStorage.getItem("authKey")
             })
         }).then(out => out.text()).then(data => {
             console.log(data);
-            if(data != "AUTHORIZED") {
-                console.log(localStorage.getItem("authKey"));
-                console.log(data);
-                window.location.href = "index.html";
-            }
+            document.body.innerHTML = data;
         })
 </script>

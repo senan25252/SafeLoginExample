@@ -57,12 +57,26 @@ namespace Backend
                             {
                                 string passkey = passkeyElement.GetString();
                                 Console.WriteLine(passkey);
+                                bool verified = false;
+
                                 foreach(string s in authKeys)
                                 {
                                     if(s == passkey)
                                     {
-                                        responseText = "AUTHORIZED";
+                                        verified = true;
                                     }
+                                }
+
+                                if (verified)
+                                {
+                                    responseText = "<label> THIS IS MAIN PAGE </label>";
+                                }
+                                else
+                                {
+                                    responseText = @"
+                                                            <input type=""text"" id=""in"">
+                                                            <script src=""script.js""></script>
+                                                            <button type=""button"" onclick=""CheckPass()"">Login</button>";
                                 }
                             }
                         }

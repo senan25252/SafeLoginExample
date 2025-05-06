@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "o2Yxp9jtQLRExevon9g9edODD7Mdqe98z8RpO7BtwbyJR+uYRDwgcdssr92GasBD8RLwH2CJlFZLwYF8IG3Dig==",
+  "dgSpecHash": "wXzMboHRu92jgFqGQp7RI2styVK9DFoNNSbt/P78Eh6FxsMFnRBhTg8y1k1SlUt8remyIbVgqNDPq36nvUfwzw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\Desktop\\Files and Folders\\BackendDenemesi\\Backend\\Backend\\Backend\\Backend.csproj",
+  "projectFilePath": "C:\\Users\\User\\Desktop\\SafeLoginExample\\SafeLoginPageExample\\Backend\\Backend\\Backend\\Backend.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

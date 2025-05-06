@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\Files and Folders\\BackendDenemesi\\Backend\\Backend\\Backend\\Backend.csproj": {}
+    "C:\\Users\\User\\Desktop\\SafeLoginExample\\SafeLoginPageExample\\Backend\\Backend\\Backend\\Backend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\Files and Folders\\BackendDenemesi\\Backend\\Backend\\Backend\\Backend.csproj": {
+    "C:\\Users\\User\\Desktop\\SafeLoginExample\\SafeLoginPageExample\\Backend\\Backend\\Backend\\Backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\Files and Folders\\BackendDenemesi\\Backend\\Backend\\Backend\\Backend.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\SafeLoginExample\\SafeLoginPageExample\\Backend\\Backend\\Backend\\Backend.csproj",
         "projectName": "Backend",
-        "projectPath": "C:\\Users\\User\\Desktop\\Files and Folders\\BackendDenemesi\\Backend\\Backend\\Backend\\Backend.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\SafeLoginExample\\SafeLoginPageExample\\Backend\\Backend\\Backend\\Backend.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\Files and Folders\\BackendDenemesi\\Backend\\Backend\\Backend\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\SafeLoginExample\\SafeLoginPageExample\\Backend\\Backend\\Backend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
